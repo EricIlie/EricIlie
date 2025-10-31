@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[https://i.pinimg.com/originals/2c/92/4f/2c924f5738ab7e80986cc8ff0290714a.gif](https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif)">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/2c/92/4f/2c924f5738ab7e80986cc8ff0290714a.gif](https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif">
 </div>
 
 </br>
