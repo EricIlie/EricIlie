@@ -13,7 +13,7 @@
 
 ### - Hi im Eric i'm a 20 years old estudent of websyte developer.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/d4/97/ef/d497efbd07b40f54e7b298f2f2dff4a9.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/2c/92/4f/2c924f5738ab7e80986cc8ff0290714a.gif">
 
 ### - Learning :
 - ✨ How to program websites.
